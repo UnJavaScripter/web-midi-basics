@@ -1,0 +1,29 @@
+{
+  "name": "web-midi-basics-example",
+  "version": "1.0.0",
+  "description": "a demo project on web midi",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "@types/webmidi": "^2.0.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UnJavaScripter/web-midi-basics.git"
+  },
+  "keywords": [
+    "web",
+    "midi",
+    "web",
+    "midi"
+  ],
+  "author": "unJavaScripter",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/UnJavaScripter/web-midi-basics/issues"
+  },
+  "homepage": "https://github.com/UnJavaScripter/web-midi-basics#readme"
+}
